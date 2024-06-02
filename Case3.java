@@ -1,6 +1,6 @@
 package testcases;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;// code is not clear
 import org.testng.annotations.Test;
 import org.testng.annotations.Parameters;
 public class Case3 {
